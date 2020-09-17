@@ -1,5 +1,8 @@
 ## Example how move-mount-no-propagate can be used:
 
+Required kernel patch for MOVE_MOUNT_NO_PROPAGATE:
+https://github.com/Snorch/linux/commit/84886f588527b062993ec3e9760c879163852518
+
 ### Term 1
 
 ```
